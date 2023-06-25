@@ -1,3 +1,7 @@
+//BSRN Projekt Alternative 1
+//Shalin Jacoby
+//1406548
+//Sockets Server
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
